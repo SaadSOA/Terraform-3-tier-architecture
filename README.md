@@ -20,7 +20,7 @@ Application Load Balancer routes the incoming traffic to Web tier instance.
 ```
 AWS Access Key ID [****************XXXX]:
 AWS Secret Access Key [****************XXXX]:
-Default region name [us-east-1]:
+Default region name [eu-west-2]:
 Default output format [json]:
 ```
 
