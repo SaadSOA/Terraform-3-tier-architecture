@@ -1,3 +1,5 @@
+# Reference Terraform .gitignore file
+
 # Local .terraform directories
 **/.terraform/*
 
